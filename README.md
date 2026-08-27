@@ -1,3 +1,5 @@
+(test)
+
 # Ultima [ˈultima] — Minimalist Zsh theme
 
 ### Clean, clear, and visually structured.
